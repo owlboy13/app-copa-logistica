@@ -10,14 +10,12 @@ regras.txt
 campanha_pontuacao.jpg
 ./venv_promo
 .venv_promo
-conversor_parquet.py
 *.xlsx
 project_url_supabase.txt
 *.zip
 *.spec
 data-app-copa.zip
 /dist
-*.md
 .env.example
 /venv_promo
 /data
